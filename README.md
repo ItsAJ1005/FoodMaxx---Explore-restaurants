@@ -8,7 +8,7 @@
 
   FoodMaxx is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://itsaj1005.github.io/FoodMaxx---Explore-restaurants/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
