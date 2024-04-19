@@ -16,7 +16,9 @@
 
 ### Demo Screeshots
 
-![Foodie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Foodie Desktop Demo](./readme-images/img%201.png "Desktop Demo")
+<br><br>
+![Foodie Desktop Demo](./readme-images/img%202.png "Desktop Demo")
 
 ### Prerequisites
 
